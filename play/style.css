@@ -207,7 +207,6 @@ hr {
   background: #58D1FF;
   width: 100%;
   height: 4%;
-  margin-top: 6%;
   transition: all ease 0.2s;
 }
 
@@ -266,7 +265,6 @@ hr {
 .game-space {
   width: 100%;
   height: 90%;
-  margin-bottom: 15%;
   position: relative;
   overflow: hidden;
 }
